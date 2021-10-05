@@ -1,0 +1,58 @@
+body
+{
+    font-family: "Times New Roman", Times, serif;
+    background-color: #33ccff;
+}
+
+p
+{
+ font-family: cursive;
+}
+button
+{
+  font-family: cursive;
+}
+p,h4
+{
+ font-family: cursive;
+ font-weight: bold;
+ color:rgb(9, 61, 95);
+}
+h1
+{
+  font-weight: bold;
+  font-family: cursive;
+  color: black;
+}
+
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 5%;
+    cursor: pointer;
+    background: -webkit-linear-gradient(right, #5971db, #7917aa);
+
+    color: #fff;
+    font-family: cursive;
+}
+.note
+{
+    text-align: center;
+    height: 80px;
+    background: -webkit-linear-gradient(left, #070514, #13294bd5);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+    font-size: x-large;
+}
+
+/* .btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 5%;
+    cursor: pointer;
+    background: #244469;
+    color: #fff;
+} */

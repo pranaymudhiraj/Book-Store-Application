@@ -1,0 +1,30 @@
+<div class="container p-3 mb-4 " style="margin-top: 5%;" >
+    <p class="note">Books Collection</p>
+    <div class="row">
+        <div class="col-md-4 mx-auto my-4" *ngFor="let card of listData">
+            <div  class="card  mb-3" style="margin-right: 50px;">
+                <img class="card-img-top center"
+                [src]="card.bookImage"
+                style="height: 15rem; width: 60%;   display: block;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 30px;"
+                alt="Card image cap"/>
+                <div class="card-header" style="color: rgb(11, 14, 14); text-align: center;">
+                    <h4 class="card-title">{{card.bookName}}</h4>
+                </div>
+                <div class="card-body text-info center" style="text-align: center;">
+                    <p>Book By {{card.author}}</p>
+                    <p>Rating: {{card.rating}}</p>
+                    <h6>Price: {{card.price}}/-</h6>
+                    <button type="submit" class="btnSubmit" (click)="addToCart(card)">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+

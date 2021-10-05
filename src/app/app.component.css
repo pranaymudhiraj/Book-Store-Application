@@ -1,0 +1,25 @@
+body
+{
+    font-family: "Times New Roman", Times, serif;
+    background-color: #33ccff;
+}
+.a
+{
+  font-size: large;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1rem;
+    padding: 1%;
+    cursor: pointer;
+    background: #103c6e;
+    color: #fff;
+}
+a,li
+{
+ font-family: cursive;
+ font-weight: bold;
+ color:rgb(6, 30, 49);
+}
+

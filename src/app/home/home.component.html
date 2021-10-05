@@ -1,0 +1,59 @@
+
+<div class="p-3 mb-2 container-fluid" style="margin-top: 5%;" >
+
+    <div class="container position-relative" >
+      </div>
+        <p class="note blink_me sticky-top " style="top: 10.5%" *ngIf="!isLoading">Trending Books </p>
+        <div class="row ">
+          <div class="col-md-4 mx-auto my-4 " *ngFor="let card of trendingData">
+            <div  class="card  mb-4" style="margin-right: 50px;">
+              <img class="card-img-top center"
+              [src]="card.bookImage"
+              style="height: 20rem; width: 70%;   display: block; background-color: cornflowerblue;
+              margin-left: auto;
+              margin-right: auto;
+              margin-top: 30px;"
+              alt="Card image cap"/>
+              <div class="card-header" style="color: rgb(7, 6, 6); text-align: center;">
+                <h4 class="card-title" style="font-family: cursive;">{{card.bookName}}</h4>
+              </div>
+              <div class="card-body  center" style="text-align: center; ">
+                  <p>Book By: {{card.author}}</p>
+                  <p>Rating:on scale of 1-5 <strong><br>{{card.rating}}</strong> </p>
+                  <h6>Price: {{card.price}}/-</h6>
+                  <button type="submit" class="btnSubmit" (click)="addToCart(card)">Add to Cart</button>
+                  <!-- <button type="button" style="font-family: cursive;" class="btn btn-primary btn-lg btn-block" (click)="addToCart(card)">Add to Cart</button> -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <p class="note sticky-top " style="top: 10.5%" *ngIf="!isLoading">Latest Uploads</p>
+        <div class="row">
+          <div class="col-md-4 mx-auto my-4" *ngFor="let card of latestData">
+            <div  class="card  mb-3" style="margin-right: 50px;">
+              <img class="card-img-top center"
+              [src]="card.bookImage"
+              style="height: 20rem; width: 70%;   display: block;
+              margin-left: auto;
+              margin-right: auto;
+              margin-top: 30px;"
+              alt="Card image cap"/>
+              <div class="card-header" style="color: black; text-align: center;">
+                <h4 class="card-title" style="color:rgb(9, 61, 95); font-family: cursive;">{{card.bookName}}</h4>
+              </div>
+              <div class="card-body center" style="text-align: center;">
+                  <p>Book by {{card.author}}</p>
+                  <p>Rating:on scale of 1-5 <strong><br>{{card.rating}}</strong> </p>
+                  <h6>Price: {{card.price}}/-</h6>
+                  <button type="submit" class="btnSubmit" (click)="addToCart(card)">Add to Cart</button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <!-- spinner -->
+    <div class="spinnermain" *ngIf="isLoading" style="align-content: center; margin-left: 40%; margin-top: 5%;font-size: 30px;" >
+      <p>loding.........</p>
+  </div>
+

@@ -1,0 +1,56 @@
+
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="container register-form " style="margin-top: 5%;">
+            <div class="form">
+                <div class="note">
+                    <p style="font-family: cursive;">Sell You Book</p>
+                </div>
+                <form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+                <div class="form-content">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="bookName">Book Name*</label>
+                                 <!-- <input type="text" class="form-control" name="bookName" id="bookName" [(ngModel)] = "service.formData.bookName" #bookName="ngModel" placeholder="Enter Book Name" required> -->
+                                <input type="text" class="form-control" name="bookName" id="bookName" [(ngModel)] = "service.formData.bookName" #bookName="ngModel" placeholder="Enter Book Name *" value=""/>
+                            </div>
+                            <div class="form-group">
+                              <label for="description">Genre* would be 1.Science 2.History 3.Fiction</label>
+                             <!-- <input type="text" class="form-control" name="description" id="description" [(ngModel)] = "service.formData.description" #description="ngModel" placeholder="Enter Genre" required> -->
+                              <input type="text" class="form-control" name="description" id="description" [(ngModel)] = "service.formData.description" #description="ngModel" placeholder="Enter Genre *" required>
+                            </div>
+                            <div class="form-group">
+                              <label for="rating">Rating* 1-5</label>
+                              <!-- <input type="number" class="form-control" name="rating" id="rating" [(ngModel)] = "service.formData.rating" #rating="ngModel" required> -->
+                              <input type="number" class="form-control" name="rating" id="rating" [(ngModel)] = "service.formData.rating" #rating="ngModel" placeholder="Enter Rating *" required>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                          <div class="form-group">
+                            <label for="bookImage">Paste Image URL*</label>
+                            <!-- <input type="text" class="form-control" name="bookImage" id="bookImage" [(ngModel)] = "service.formData.bookImage" #bookImage="ngModel" placeholder="Image URL" required> -->
+                            <input type="text" class="form-control" name="bookImage" id="bookImage" [(ngModel)] = "service.formData.bookImage" #bookImage="ngModel" placeholder="Image URL" required>
+                          </div>
+                          <div class="form-group">
+                            <label for="author">Author Name*</label>
+                            <!-- <input type="text" class="form-control" name="author" id="author" [(ngModel)] = "service.formData.author" #author="ngModel" placeholder="Enter Author Name" required> -->
+                            <input type="text" class="form-control" name="author" id="author" [(ngModel)] = "service.formData.author" #author="ngModel" placeholder="Enter Author Name" required>
+                          </div>
+                          <div class="form-group">
+                            <label for="price">Price*</label>
+                            <!-- <input type="number" class="form-control" name="price" id="price" [(ngModel)] = "service.formData.price" #price="ngModel" required> -->
+                            <input type="number" class="form-control" name="price" id="price" [(ngModel)] = "service.formData.price" #price="ngModel" placeholder="Enter Price" required>
+                          </div>
+                        </div>
+                    </div>
+                    <button type="submit" style="margin-left: 40%;" class="btnSubmit" [disabled]="form.invalid">Upload</button>
+                </div>
+              </form>
+            </div>
+        </div>
+

@@ -1,0 +1,25 @@
+<div class="container " style="margin-top: 5%;">
+    <hr><p class="note">Fictional Book Collection</p>
+    <div class="row">
+        <div class="col-md-4 mx-auto my-4" *ngFor="let card of fictionData">
+            <div  class="card  mb-3" style="margin-right: 50px;">
+                <img class="card-img-top center"
+                [src]="card.bookImage"
+                style="height: 15rem; width: 60%;   display: block;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 30px;"
+                alt="Card image cap"/>
+                <div class="card-header" style="color: black; text-align: center;">
+                    <h4 class="card-title">{{card.bookName}}</h4>
+                </div>
+                <div class="card-body text-info center" style="text-align: center;">
+                    <p>by {{card.author}}</p>
+                    <p>Rating: {{card.rating}}</p>
+                    <h6>Price: {{card.price}}/-</h6>
+                    <button type="submit" class="btnSubmit" (click)="addToCart(card)">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
