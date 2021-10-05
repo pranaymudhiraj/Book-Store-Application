@@ -1,0 +1,232 @@
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.exe
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.deps.json
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.json
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.dev.json
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfo.cs
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.xml
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStoreWebAPI.styles.css
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CopyComplete
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+C:\Users\K MANISHA REDDY\source\repos\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.genruntimeconfig.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.exe
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.deps.json
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.json
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.dev.json
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.AssemblyReference.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfoInputs.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfo.cs
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CoreCompileInputs.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.Manifest.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.xml
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStoreWebAPI.styles.css
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CopyComplete
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+D:\MINDTREE\c\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.genruntimeconfig.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\nlog.config
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.exe
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.deps.json
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.json
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.runtimeconfig.dev.json
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.AssemblyReference.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfoInputs.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.AssemblyInfo.cs
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CoreCompileInputs.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.Manifest.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\staticwebassets\BookStoreWebAPI.StaticWebAssets.xml
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStoreWebAPI.styles.css
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.csproj.CopyComplete
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.pdb
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\obj\Debug\netcoreapp3.1\BookStoreWebAPI.genruntimeconfig.cache
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\NLog.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\MINDTREE\c\BookStoreApplication\BookStoreWebAPI\BookStoreWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
